@@ -21,8 +21,8 @@ Recriação da tela "Continuar como..." do Instagram Web usando apenas **HTML e 
 Não há dependências nem build. Basta abrir o `index.html` no navegador, ou servir a pasta localmente:
 
 ```bash
-git clone https://github.com/CaioNepomuceno2/InstragramCopy.git
-cd InstragramCopy
+git clone https://github.com/CaioNepomuceno2/instagram-login-clone.git
+cd instagram-login-clone
 python -m http.server 8000   # acesse http://localhost:8000
 ```
 
